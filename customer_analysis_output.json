@@ -1,0 +1,3301 @@
+[
+    {
+        "feedback_text": "\"Absolutely love my new shoes! The fit is perfect, and the quality is top-notch. Fast delivery too!\"",
+        "translated_text": "\"Absolutely love my new shoes! The fit is perfect, and the quality is top-notch. Fast delivery too!\"",
+        "emotion": {
+            "primary": {
+                "type": "joy",
+                "intensity": "high",
+                "confidence": 0.94
+            },
+            "secondary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.03
+            },
+            "tertiary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.03
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "new shoes",
+                "confidence": 0.5906
+            },
+            "secondary": {
+                "topic": "shoes fit",
+                "confidence": 0.5224
+            },
+            "tertiary": {
+                "topic": "fit perfect",
+                "confidence": 0.4518
+            },
+            "subtopics": {
+                "new shoes": [
+                    "new shoes",
+                    "shoes"
+                ],
+                "shoes fit": [
+                    "shoes fit",
+                    "shoes",
+                    "fit"
+                ],
+                "fit perfect": [
+                    "fit perfect",
+                    "fit"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"Absolutely love my new shoes!",
+                    "sentiment_score": 84.95,
+                    "topics": {
+                        "new shoes": 71.47,
+                        "shoes": 53.8,
+                        "love new": 50.5,
+                        "absolutely love": 35.39,
+                        "new": 30.07
+                    }
+                },
+                {
+                    "sentence": "The fit is perfect, and the quality is top-notch.",
+                    "sentiment_score": 86.76,
+                    "topics": {
+                        "fit perfect": 59.91,
+                        "perfect quality": 43.22,
+                        "fit": 40.88,
+                        "quality": 36.61,
+                        "quality notch": 35.35
+                    }
+                },
+                {
+                    "sentence": "Fast delivery too!\"",
+                    "sentiment_score": 50.0,
+                    "topics": {
+                        "fast delivery": 80.75,
+                        "delivery": 59.66,
+                        "fast": 50.72
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 49.87,
+                "breakdown": {
+                    "new shoes": 71.47,
+                    "shoes": 53.8,
+                    "love new": 50.5,
+                    "absolutely love": 35.39,
+                    "new": 30.07,
+                    "fit perfect": 59.91,
+                    "perfect quality": 43.22,
+                    "fit": 40.88,
+                    "quality": 36.61,
+                    "quality notch": 35.35,
+                    "fast delivery": 80.75,
+                    "delivery": 59.66,
+                    "fast": 50.72
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"Pedí una pizza, pero llegó fría y empapada. Tardó una hora más de lo prometido. ¡Muy decepcionado!\"",
+        "translated_text": "\"I asked for a pizza, but it came cold and soaked. It took an hour more than promised. Very disappointed!\"",
+        "emotion": {
+            "primary": {
+                "type": "sadness",
+                "intensity": "medium",
+                "confidence": 0.63
+            },
+            "secondary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.18
+            },
+            "tertiary": {
+                "type": "anger",
+                "intensity": "low",
+                "confidence": 0.07
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "an hour",
+                "confidence": 1.0
+            },
+            "secondary": {
+                "topic": "asked pizza",
+                "confidence": 0.5581
+            },
+            "tertiary": {
+                "topic": "pizza came",
+                "confidence": 0.4889
+            },
+            "subtopics": {
+                "an hour": [],
+                "asked pizza": [
+                    "asked pizza",
+                    "pizza"
+                ],
+                "pizza came": [
+                    "pizza came",
+                    "pizza"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"I asked for a pizza, but it came cold and soaked.",
+                    "sentiment_score": 50.0,
+                    "topics": {
+                        "asked pizza": 66.39,
+                        "pizza came": 57.54,
+                        "cold soaked": 48.31,
+                        "pizza": 47.91,
+                        "came cold": 45.57
+                    }
+                },
+                {
+                    "sentence": "It took an hour more than promised.",
+                    "sentiment_score": 70.86,
+                    "topics": {
+                        "hour promised": 63.91,
+                        "took hour": 61.6,
+                        "promised": 44.29,
+                        "hour": 34.09,
+                        "took": 20.93
+                    }
+                },
+                {
+                    "sentence": "Very disappointed!\"",
+                    "sentiment_score": 50.0,
+                    "topics": {
+                        "disappointed": 67.77
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 50.76,
+                "breakdown": {
+                    "asked pizza": 66.39,
+                    "pizza came": 57.54,
+                    "cold soaked": 48.31,
+                    "pizza": 47.91,
+                    "came cold": 45.57,
+                    "hour promised": 63.91,
+                    "took hour": 61.6,
+                    "promised": 44.29,
+                    "hour": 34.09,
+                    "took": 20.93,
+                    "disappointed": 67.77
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "Le service client de la banque a été incroyablement utile pour résoudre mes problèmes de prêt. J'apprécie vraiment leur professionnalisme.",
+        "translated_text": "Bank's customer service has been incredibly useful for solving my loan problems. I really appreciate their professionalism.",
+        "emotion": {
+            "primary": {
+                "type": "joy",
+                "intensity": "high",
+                "confidence": 0.88
+            },
+            "secondary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.07
+            },
+            "tertiary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.03
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "Bank",
+                "confidence": 1.0
+            },
+            "secondary": {
+                "topic": "bank customer",
+                "confidence": 0.6387
+            },
+            "tertiary": {
+                "topic": "customer service",
+                "confidence": 0.5184
+            },
+            "subtopics": {
+                "Bank": [],
+                "bank customer": [
+                    "bank customer",
+                    "bank",
+                    "customer"
+                ],
+                "customer service": [
+                    "customer service",
+                    "customer",
+                    "service"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "Bank's customer service has been incredibly useful for solving my loan problems.",
+                    "sentiment_score": 74.33,
+                    "topics": {
+                        "bank customer": 62.71,
+                        "loan problems": 51.92,
+                        "customer service": 51.65,
+                        "solving loan": 50.4,
+                        "bank": 49.98
+                    }
+                },
+                {
+                    "sentence": "I really appreciate their professionalism.",
+                    "sentiment_score": 72.88,
+                    "topics": {
+                        "appreciate professionalism": 77.63,
+                        "professionalism": 63.04,
+                        "really appreciate": 39.68,
+                        "appreciate": 36.9,
+                        "really": 20.52
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 50.44,
+                "breakdown": {
+                    "bank customer": 62.71,
+                    "loan problems": 51.92,
+                    "customer service": 51.65,
+                    "solving loan": 50.4,
+                    "bank": 49.98,
+                    "appreciate professionalism": 77.63,
+                    "professionalism": 63.04,
+                    "really appreciate": 39.68,
+                    "appreciate": 36.9,
+                    "really": 20.52
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"मेरा नया फ़ोन एक हफ्ते में ही खराब हो गया, और ग्राहक सेवा जवाब नहीं दे रही। बहुत निराश हूँ।\"",
+        "translated_text": "\"My new phone deteriorated within a week, and the customer service is not responding. I am very disappointed.\"",
+        "emotion": {
+            "primary": {
+                "type": "sadness",
+                "intensity": "high",
+                "confidence": 0.9
+            },
+            "secondary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.03
+            },
+            "tertiary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.03
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "a week",
+                "confidence": 1.0
+            },
+            "secondary": {
+                "topic": "phone deteriorated",
+                "confidence": 0.6264
+            },
+            "tertiary": {
+                "topic": "new phone",
+                "confidence": 0.5817
+            },
+            "subtopics": {
+                "a week": [],
+                "phone deteriorated": [
+                    "phone deteriorated",
+                    "phone",
+                    "deteriorated"
+                ],
+                "new phone": [
+                    "new phone",
+                    "phone"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"My new phone deteriorated within a week, and the customer service is not responding.",
+                    "sentiment_score": 50.0,
+                    "topics": {
+                        "phone deteriorated": 73.5,
+                        "new phone": 59.58,
+                        "service responding": 54.81,
+                        "customer service": 51.92,
+                        "deteriorated week": 50.33
+                    }
+                },
+                {
+                    "sentence": "I am very disappointed.\"",
+                    "sentiment_score": 50.0,
+                    "topics": {
+                        "disappointed": 53.71
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 57.31,
+                "breakdown": {
+                    "phone deteriorated": 73.5,
+                    "new phone": 59.58,
+                    "service responding": 54.81,
+                    "customer service": 51.92,
+                    "deteriorated week": 50.33,
+                    "disappointed": 53.71
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"Ich hatte eine schreckliche Erfahrung im Krankenhaus. Das Personal war überfordert und ich musste stundenlang auf dringende Hilfe warten.\"",
+        "translated_text": "\"I had a terrible experience in the hospital. The staff was overwhelmed and I had to wait hours for urgent help.\"",
+        "emotion": {
+            "primary": {
+                "type": "fear",
+                "intensity": "high",
+                "confidence": 0.85
+            },
+            "secondary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.12
+            },
+            "tertiary": {
+                "type": "disgust",
+                "intensity": "low",
+                "confidence": 0.01
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "hours",
+                "confidence": 1.0
+            },
+            "secondary": {
+                "topic": "experience hospital",
+                "confidence": 0.5029
+            },
+            "tertiary": {
+                "topic": "hospital",
+                "confidence": 0.4914
+            },
+            "subtopics": {
+                "hours": [],
+                "experience hospital": [
+                    "experience hospital",
+                    "hospital"
+                ],
+                "hospital": [
+                    "hospital"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"I had a terrible experience in the hospital.",
+                    "sentiment_score": 26.16,
+                    "topics": {
+                        "experience hospital": 59.18,
+                        "hospital": 55.62,
+                        "terrible experience": 50.28,
+                        "experience": 29.83,
+                        "terrible": 28.95
+                    }
+                },
+                {
+                    "sentence": "The staff was overwhelmed and I had to wait hours for urgent help.\"",
+                    "sentiment_score": 62.5,
+                    "topics": {
+                        "staff overwhelmed": 56.29,
+                        "hours urgent": 53.43,
+                        "overwhelmed wait": 49.86,
+                        "urgent": 42.83,
+                        "overwhelmed": 38.93
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 46.52,
+                "breakdown": {
+                    "experience hospital": 59.18,
+                    "hospital": 55.62,
+                    "terrible experience": 50.28,
+                    "experience": 29.83,
+                    "terrible": 28.95,
+                    "staff overwhelmed": 56.29,
+                    "hours urgent": 53.43,
+                    "overwhelmed wait": 49.86,
+                    "urgent": 42.83,
+                    "overwhelmed": 38.93
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"Absolutely love my new shoes! The fit is perfect, and the quality is top-notch. Fast delivery too!\"",
+        "translated_text": "\"Absolutely love my new shoes! The fit is perfect, and the quality is top-notch. Fast delivery too!\"",
+        "emotion": {
+            "primary": {
+                "type": "joy",
+                "intensity": "high",
+                "confidence": 0.94
+            },
+            "secondary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.03
+            },
+            "tertiary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.03
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "new shoes",
+                "confidence": 0.5906
+            },
+            "secondary": {
+                "topic": "shoes fit",
+                "confidence": 0.5224
+            },
+            "tertiary": {
+                "topic": "fit perfect",
+                "confidence": 0.4518
+            },
+            "subtopics": {
+                "new shoes": [
+                    "new shoes",
+                    "shoes"
+                ],
+                "shoes fit": [
+                    "shoes fit",
+                    "shoes",
+                    "fit"
+                ],
+                "fit perfect": [
+                    "fit perfect",
+                    "fit"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"Absolutely love my new shoes!",
+                    "sentiment_score": 84.95,
+                    "topics": {
+                        "new shoes": 71.47,
+                        "shoes": 53.8,
+                        "love new": 50.5,
+                        "absolutely love": 35.39,
+                        "new": 30.07
+                    }
+                },
+                {
+                    "sentence": "The fit is perfect, and the quality is top-notch.",
+                    "sentiment_score": 86.76,
+                    "topics": {
+                        "fit perfect": 59.91,
+                        "perfect quality": 43.22,
+                        "fit": 40.88,
+                        "quality": 36.61,
+                        "quality notch": 35.35
+                    }
+                },
+                {
+                    "sentence": "Fast delivery too!\"",
+                    "sentiment_score": 50.0,
+                    "topics": {
+                        "fast delivery": 80.75,
+                        "delivery": 59.66,
+                        "fast": 50.72
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 49.87,
+                "breakdown": {
+                    "new shoes": 71.47,
+                    "shoes": 53.8,
+                    "love new": 50.5,
+                    "absolutely love": 35.39,
+                    "new": 30.07,
+                    "fit perfect": 59.91,
+                    "perfect quality": 43.22,
+                    "fit": 40.88,
+                    "quality": 36.61,
+                    "quality notch": 35.35,
+                    "fast delivery": 80.75,
+                    "delivery": 59.66,
+                    "fast": 50.72
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"Ordered pizza, but it arrived cold and soggy. Took an hour longer than promised. Very disappointed!\"",
+        "translated_text": "\"Ordered pizza, but it arrived cold and soggy. Took an hour longer than promised. Very disappointed!\"",
+        "emotion": {
+            "primary": {
+                "type": "sadness",
+                "intensity": "high",
+                "confidence": 0.89
+            },
+            "secondary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.04
+            },
+            "tertiary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.03
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "an hour",
+                "confidence": 1.0
+            },
+            "secondary": {
+                "topic": "ordered pizza",
+                "confidence": 0.6515
+            },
+            "tertiary": {
+                "topic": "pizza arrived",
+                "confidence": 0.6479
+            },
+            "subtopics": {
+                "an hour": [],
+                "ordered pizza": [
+                    "ordered pizza",
+                    "pizza",
+                    "ordered"
+                ],
+                "pizza arrived": [
+                    "pizza arrived",
+                    "pizza",
+                    "arrived"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"Ordered pizza, but it arrived cold and soggy.",
+                    "sentiment_score": 50.0,
+                    "topics": {
+                        "ordered pizza": 73.55,
+                        "pizza arrived": 72.29,
+                        "cold soggy": 57.65,
+                        "pizza": 53.89,
+                        "arrived cold": 51.84
+                    }
+                },
+                {
+                    "sentence": "Took an hour longer than promised.",
+                    "sentiment_score": 68.06,
+                    "topics": {
+                        "took hour": 66.64,
+                        "longer promised": 62.29,
+                        "hour longer": 58.08,
+                        "promised": 42.06,
+                        "longer": 42.05
+                    }
+                },
+                {
+                    "sentence": "Very disappointed!\"",
+                    "sentiment_score": 50.0,
+                    "topics": {
+                        "disappointed": 67.77
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 58.92,
+                "breakdown": {
+                    "ordered pizza": 73.55,
+                    "pizza arrived": 72.29,
+                    "cold soggy": 57.65,
+                    "pizza": 53.89,
+                    "arrived cold": 51.84,
+                    "took hour": 66.64,
+                    "longer promised": 62.29,
+                    "hour longer": 58.08,
+                    "promised": 42.06,
+                    "longer": 42.05,
+                    "disappointed": 67.77
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"The bank’s customer support was incredibly helpful in resolving my loan application issues. I truly appreciate their professionalism.\"",
+        "translated_text": "\"The bank’s customer support was incredibly helpful in resolving my loan application issues. I truly appreciate their professionalism.\"",
+        "emotion": {
+            "primary": {
+                "type": "joy",
+                "intensity": "high",
+                "confidence": 0.79
+            },
+            "secondary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.16
+            },
+            "tertiary": {
+                "type": "sadness",
+                "intensity": "low",
+                "confidence": 0.02
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "bank customer",
+                "confidence": 0.5727
+            },
+            "secondary": {
+                "topic": "customer support",
+                "confidence": 0.5047
+            },
+            "tertiary": {
+                "topic": "loan application",
+                "confidence": 0.4795
+            },
+            "subtopics": {
+                "bank customer": [
+                    "bank customer",
+                    "bank",
+                    "customer"
+                ],
+                "customer support": [
+                    "customer support",
+                    "customer"
+                ],
+                "loan application": [
+                    "loan application",
+                    "loan"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"The bank’s customer support was incredibly helpful in resolving my loan application issues.",
+                    "sentiment_score": 91.25,
+                    "topics": {
+                        "bank customer": 56.31,
+                        "customer support": 52.63,
+                        "loan application": 52.3,
+                        "resolving loan": 51.1,
+                        "loan": 47.65
+                    }
+                },
+                {
+                    "sentence": "I truly appreciate their professionalism.\"",
+                    "sentiment_score": 84.04,
+                    "topics": {
+                        "appreciate professionalism": 76.88,
+                        "professionalism": 60.96,
+                        "truly appreciate": 44.06,
+                        "appreciate": 32.17,
+                        "truly": 24.35
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 49.84,
+                "breakdown": {
+                    "bank customer": 56.31,
+                    "customer support": 52.63,
+                    "loan application": 52.3,
+                    "resolving loan": 51.1,
+                    "loan": 47.65,
+                    "appreciate professionalism": 76.88,
+                    "professionalism": 60.96,
+                    "truly appreciate": 44.06,
+                    "appreciate": 32.17,
+                    "truly": 24.35
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"I was upgraded to first class for free! The airline provided excellent service, and the food was amazing!\"",
+        "translated_text": "\"I was upgraded to first class for free! The airline provided excellent service, and the food was amazing!\"",
+        "emotion": {
+            "primary": {
+                "type": "joy",
+                "intensity": "high",
+                "confidence": 0.85
+            },
+            "secondary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.1
+            },
+            "tertiary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.03
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "first",
+                "confidence": 1.0
+            },
+            "secondary": {
+                "topic": "free airline",
+                "confidence": 0.4956
+            },
+            "tertiary": {
+                "topic": "airline",
+                "confidence": 0.4568
+            },
+            "subtopics": {
+                "first": [],
+                "free airline": [
+                    "free airline",
+                    "airline"
+                ],
+                "airline": [
+                    "airline"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"I was upgraded to first class for free!",
+                    "sentiment_score": 77.81,
+                    "topics": {
+                        "upgraded class": 64.2,
+                        "class free": 64.15,
+                        "class": 49.1,
+                        "upgraded": 42.88,
+                        "free": 30.65
+                    }
+                },
+                {
+                    "sentence": "The airline provided excellent service, and the food was amazing!\"",
+                    "sentiment_score": 80.57,
+                    "topics": {
+                        "airline provided": 56.02,
+                        "airline": 54.81,
+                        "food amazing": 54.4,
+                        "service food": 45.84,
+                        "excellent service": 38.85
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 50.09,
+                "breakdown": {
+                    "upgraded class": 64.2,
+                    "class free": 64.15,
+                    "class": 49.1,
+                    "upgraded": 42.88,
+                    "free": 30.65,
+                    "airline provided": 56.02,
+                    "airline": 54.81,
+                    "food amazing": 54.4,
+                    "service food": 45.84,
+                    "excellent service": 38.85
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"My new phone stopped working within a week, and customer support isn't responding. Feeling really let down.\"",
+        "translated_text": "\"My new phone stopped working within a week, and customer support isn't responding. Feeling really let down.\"",
+        "emotion": {
+            "primary": {
+                "type": "sadness",
+                "intensity": "high",
+                "confidence": 0.98
+            },
+            "secondary": {
+                "type": "anger",
+                "intensity": "low",
+                "confidence": 0.01
+            },
+            "tertiary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.01
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "a week",
+                "confidence": 1.0
+            },
+            "secondary": {
+                "topic": "phone stopped",
+                "confidence": 0.5768
+            },
+            "tertiary": {
+                "topic": "new phone",
+                "confidence": 0.5464
+            },
+            "subtopics": {
+                "a week": [],
+                "phone stopped": [
+                    "phone stopped",
+                    "phone"
+                ],
+                "new phone": [
+                    "new phone",
+                    "phone"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"My new phone stopped working within a week, and customer support isn't responding.",
+                    "sentiment_score": 60.11,
+                    "topics": {
+                        "phone stopped": 64.09,
+                        "new phone": 58.66,
+                        "customer support": 57.56,
+                        "stopped working": 50.9,
+                        "customer": 41.19
+                    }
+                },
+                {
+                    "sentence": "Feeling really let down.\"",
+                    "sentiment_score": 56.4,
+                    "topics": {
+                        "feeling really": 50.29,
+                        "feeling": 46.89,
+                        "really let": 29.47,
+                        "let": 23.09,
+                        "really": 17.7
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 43.98,
+                "breakdown": {
+                    "phone stopped": 64.09,
+                    "new phone": 58.66,
+                    "customer support": 57.56,
+                    "stopped working": 50.9,
+                    "customer": 41.19,
+                    "feeling really": 50.29,
+                    "feeling": 46.89,
+                    "really let": 29.47,
+                    "let": 23.09,
+                    "really": 17.7
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"The concert was mind-blowing! The lighting, sound, and performance were all perfect. Best night ever!\"",
+        "translated_text": "\"The concert was mind-blowing! The lighting, sound, and performance were all perfect. Best night ever!\"",
+        "emotion": {
+            "primary": {
+                "type": "joy",
+                "intensity": "medium",
+                "confidence": 0.69
+            },
+            "secondary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.25
+            },
+            "tertiary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.03
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "concert mind",
+                "confidence": 0.5208
+            },
+            "secondary": {
+                "topic": "concert",
+                "confidence": 0.5176
+            },
+            "tertiary": {
+                "topic": "best night",
+                "confidence": 0.4342
+            },
+            "subtopics": {
+                "concert mind": [
+                    "concert mind",
+                    "concert"
+                ],
+                "concert": [
+                    "concert"
+                ],
+                "best night": [
+                    "best night",
+                    "night",
+                    "best"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"The concert was mind-blowing!",
+                    "sentiment_score": 50.0,
+                    "topics": {
+                        "concert mind": 69.44,
+                        "concert": 59.72,
+                        "mind blowing": 35.74,
+                        "mind": 30.56,
+                        "blowing": 20.62
+                    }
+                },
+                {
+                    "sentence": "The lighting, sound, and performance were all perfect.",
+                    "sentiment_score": 78.59,
+                    "topics": {
+                        "performance perfect": 52.28,
+                        "sound performance": 45.1,
+                        "lighting sound": 42.48,
+                        "lighting": 39.33,
+                        "performance": 38.7
+                    }
+                },
+                {
+                    "sentence": "Best night ever!\"",
+                    "sentiment_score": 83.48,
+                    "topics": {
+                        "best night": 78.93,
+                        "night": 52.42,
+                        "best": 47.0
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 47.1,
+                "breakdown": {
+                    "concert mind": 69.44,
+                    "concert": 59.72,
+                    "mind blowing": 35.74,
+                    "mind": 30.56,
+                    "blowing": 20.62,
+                    "performance perfect": 52.28,
+                    "sound performance": 45.1,
+                    "lighting sound": 42.48,
+                    "lighting": 39.33,
+                    "performance": 38.7,
+                    "best night": 78.93,
+                    "night": 52.42,
+                    "best": 47.0
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "The hotel staff was incredibly friendly, and the room was spotless!",
+        "translated_text": "The hotel staff was incredibly friendly, and the room was spotless!",
+        "emotion": {
+            "primary": {
+                "type": "joy",
+                "intensity": "medium",
+                "confidence": 0.53
+            },
+            "secondary": {
+                "type": "neutral",
+                "intensity": "medium",
+                "confidence": 0.41
+            },
+            "tertiary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.02
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "room spotless",
+                "confidence": 0.6321
+            },
+            "secondary": {
+                "topic": "hotel staff",
+                "confidence": 0.5744
+            },
+            "tertiary": {
+                "topic": "friendly room",
+                "confidence": 0.5449
+            },
+            "subtopics": {
+                "room spotless": [
+                    "room spotless",
+                    "spotless",
+                    "room"
+                ],
+                "hotel staff": [
+                    "hotel staff",
+                    "hotel",
+                    "staff"
+                ],
+                "friendly room": [
+                    "friendly room",
+                    "room",
+                    "friendly"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "The hotel staff was incredibly friendly, and the room was spotless!",
+                    "sentiment_score": 79.19,
+                    "topics": {
+                        "room spotless": 63.21,
+                        "hotel staff": 57.44,
+                        "friendly room": 54.49,
+                        "hotel": 50.93,
+                        "spotless": 43.85
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 53.98,
+                "breakdown": {
+                    "room spotless": 63.21,
+                    "hotel staff": 57.44,
+                    "friendly room": 54.49,
+                    "hotel": 50.93,
+                    "spotless": 43.85
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "¡Me encantó la comida y el servicio fue excelente!\" (I loved the food, and the service was excellent!",
+        "translated_text": "I loved food and service was excellent! \"(I loved The Food, and the Service was Excellents!",
+        "emotion": {
+            "primary": {
+                "type": "joy",
+                "intensity": "high",
+                "confidence": 0.94
+            },
+            "secondary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.03
+            },
+            "tertiary": {
+                "type": "disgust",
+                "intensity": "low",
+                "confidence": 0.01
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "loved food",
+                "confidence": 0.6372
+            },
+            "secondary": {
+                "topic": "food service",
+                "confidence": 0.5635
+            },
+            "tertiary": {
+                "topic": "service excellent",
+                "confidence": 0.507
+            },
+            "subtopics": {
+                "loved food": [
+                    "loved food",
+                    "food",
+                    "loved"
+                ],
+                "food service": [
+                    "food service",
+                    "service",
+                    "food"
+                ],
+                "service excellent": [
+                    "service excellent",
+                    "service",
+                    "excellent"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "I loved food and service was excellent!",
+                    "sentiment_score": 91.78,
+                    "topics": {
+                        "loved food": 63.58,
+                        "food service": 57.4,
+                        "service excellent": 49.76,
+                        "service": 37.23,
+                        "food": 35.62
+                    }
+                },
+                {
+                    "sentence": "\"(I loved The Food, and the Service was Excellents!",
+                    "sentiment_score": 81.8,
+                    "topics": {
+                        "loved food": 57.97,
+                        "food service": 52.97,
+                        "service excellents": 41.0,
+                        "food": 37.27,
+                        "service": 32.04
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 46.3,
+                "breakdown": {
+                    "loved food": 60.77,
+                    "food service": 55.19,
+                    "service excellent": 49.76,
+                    "service": 34.63,
+                    "food": 36.45,
+                    "service excellents": 41.0
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "Le vol était à l'heure, et le personnel était très serviable",
+        "translated_text": "The flight was on time, and the staff were very helpful",
+        "emotion": {
+            "primary": {
+                "type": "joy",
+                "intensity": "medium",
+                "confidence": 0.65
+            },
+            "secondary": {
+                "type": "neutral",
+                "intensity": "medium",
+                "confidence": 0.32
+            },
+            "tertiary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.01
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "flight time",
+                "confidence": 0.6194
+            },
+            "secondary": {
+                "topic": "flight",
+                "confidence": 0.521
+            },
+            "tertiary": {
+                "topic": "staff helpful",
+                "confidence": 0.4894
+            },
+            "subtopics": {
+                "flight time": [
+                    "flight time",
+                    "flight",
+                    "time"
+                ],
+                "flight": [
+                    "flight"
+                ],
+                "staff helpful": [
+                    "staff helpful",
+                    "staff",
+                    "helpful"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "The flight was on time, and the staff were very helpful",
+                    "sentiment_score": 73.77,
+                    "topics": {
+                        "flight time": 61.94,
+                        "flight": 52.1,
+                        "staff helpful": 48.94,
+                        "time staff": 42.36,
+                        "staff": 37.0
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 48.47,
+                "breakdown": {
+                    "flight time": 61.94,
+                    "flight": 52.1,
+                    "staff helpful": 48.94,
+                    "time staff": 42.36,
+                    "staff": 37.0
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "Ich wurde kostenlos auf die erste Klasse hochgestuft! Toller Service!",
+        "translated_text": "I was rated to the first class for free! Great service!",
+        "emotion": {
+            "primary": {
+                "type": "joy",
+                "intensity": "high",
+                "confidence": 0.91
+            },
+            "secondary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.04
+            },
+            "tertiary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.04
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "first",
+                "confidence": 1.0
+            },
+            "secondary": {
+                "topic": "rated class",
+                "confidence": 0.5763
+            },
+            "tertiary": {
+                "topic": "class free",
+                "confidence": 0.5338
+            },
+            "subtopics": {
+                "first": [],
+                "rated class": [
+                    "rated class",
+                    "rated",
+                    "class"
+                ],
+                "class free": [
+                    "class free",
+                    "class",
+                    "free"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "I was rated to the first class for free!",
+                    "sentiment_score": 77.81,
+                    "topics": {
+                        "rated class": 63.84,
+                        "class free": 61.48,
+                        "class": 41.03,
+                        "rated": 40.25,
+                        "free": 29.88
+                    }
+                },
+                {
+                    "sentence": "Great service!",
+                    "sentiment_score": 82.94,
+                    "topics": {
+                        "great service": 88.5,
+                        "service": 51.16,
+                        "great": 38.85
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 51.87,
+                "breakdown": {
+                    "rated class": 63.84,
+                    "class free": 61.48,
+                    "class": 41.03,
+                    "rated": 40.25,
+                    "free": 29.88,
+                    "great service": 88.5,
+                    "service": 51.16,
+                    "great": 38.85
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "Ich wurde kostenlos auf die erste Klasse hochgestuft! Toller Service!",
+        "translated_text": "I was rated to the first class for free! Great service!",
+        "emotion": {
+            "primary": {
+                "type": "joy",
+                "intensity": "high",
+                "confidence": 0.91
+            },
+            "secondary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.04
+            },
+            "tertiary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.04
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "first",
+                "confidence": 1.0
+            },
+            "secondary": {
+                "topic": "rated class",
+                "confidence": 0.5763
+            },
+            "tertiary": {
+                "topic": "class free",
+                "confidence": 0.5338
+            },
+            "subtopics": {
+                "first": [],
+                "rated class": [
+                    "rated class",
+                    "rated",
+                    "class"
+                ],
+                "class free": [
+                    "class free",
+                    "class",
+                    "free"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "I was rated to the first class for free!",
+                    "sentiment_score": 77.81,
+                    "topics": {
+                        "rated class": 63.84,
+                        "class free": 61.48,
+                        "class": 41.03,
+                        "rated": 40.25,
+                        "free": 29.88
+                    }
+                },
+                {
+                    "sentence": "Great service!",
+                    "sentiment_score": 82.94,
+                    "topics": {
+                        "great service": 88.5,
+                        "service": 51.16,
+                        "great": 38.85
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 51.87,
+                "breakdown": {
+                    "rated class": 63.84,
+                    "class free": 61.48,
+                    "class": 41.03,
+                    "rated": 40.25,
+                    "free": 29.88,
+                    "great service": 88.5,
+                    "service": 51.16,
+                    "great": 38.85
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"मुझे नया फोन बहुत पसंद आया, बैटरी लाइफ शानदार है!\"",
+        "translated_text": "\"I liked the new phone very much, the battery life is fantastic!\"",
+        "emotion": {
+            "primary": {
+                "type": "joy",
+                "intensity": "high",
+                "confidence": 0.98
+            },
+            "secondary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.0
+            },
+            "tertiary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.0
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "new phone",
+                "confidence": 0.5843
+            },
+            "secondary": {
+                "topic": "phone battery",
+                "confidence": 0.5457
+            },
+            "tertiary": {
+                "topic": "battery life",
+                "confidence": 0.4977
+            },
+            "subtopics": {
+                "new phone": [
+                    "new phone",
+                    "phone",
+                    "new"
+                ],
+                "phone battery": [
+                    "phone battery",
+                    "battery",
+                    "phone"
+                ],
+                "battery life": [
+                    "battery life",
+                    "battery",
+                    "life"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"I liked the new phone very much, the battery life is fantastic!\"",
+                    "sentiment_score": 73.77,
+                    "topics": {
+                        "new phone": 58.43,
+                        "phone battery": 54.57,
+                        "battery life": 49.77,
+                        "battery": 41.29,
+                        "phone": 35.19
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 47.85,
+                "breakdown": {
+                    "new phone": 58.43,
+                    "phone battery": 54.57,
+                    "battery life": 49.77,
+                    "battery": 41.29,
+                    "phone": 35.19
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"这家餐厅的食物太美味了，我还会再来！\"",
+        "translated_text": "\"The food at this restaurant is so delicious, I'll be back!\"",
+        "emotion": {
+            "primary": {
+                "type": "joy",
+                "intensity": "high",
+                "confidence": 0.94
+            },
+            "secondary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.03
+            },
+            "tertiary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.02
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "food restaurant",
+                "confidence": 0.6588
+            },
+            "secondary": {
+                "topic": "restaurant delicious",
+                "confidence": 0.6533
+            },
+            "tertiary": {
+                "topic": "restaurant",
+                "confidence": 0.5893
+            },
+            "subtopics": {
+                "food restaurant": [
+                    "food restaurant",
+                    "restaurant",
+                    "food"
+                ],
+                "restaurant delicious": [
+                    "restaurant delicious",
+                    "restaurant",
+                    "delicious"
+                ],
+                "restaurant": [
+                    "restaurant"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"The food at this restaurant is so delicious, I'll be back!\"",
+                    "sentiment_score": 86.06,
+                    "topics": {
+                        "food restaurant": 65.88,
+                        "restaurant delicious": 65.33,
+                        "restaurant": 58.93,
+                        "food": 43.1,
+                        "delicious": 34.19
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 53.49,
+                "breakdown": {
+                    "food restaurant": 65.88,
+                    "restaurant delicious": 65.33,
+                    "restaurant": 58.93,
+                    "food": 43.1,
+                    "delicious": 34.19
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"カスタマーサービスがとても親切でした。また利用します！\"",
+        "translated_text": "\"The customer service was very helpful. I'll use it again!\"",
+        "emotion": {
+            "primary": {
+                "type": "joy",
+                "intensity": "high",
+                "confidence": 0.72
+            },
+            "secondary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.12
+            },
+            "tertiary": {
+                "type": "anger",
+                "intensity": "low",
+                "confidence": 0.11
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "customer service",
+                "confidence": 0.5506
+            },
+            "secondary": {
+                "topic": "service helpful",
+                "confidence": 0.5017
+            },
+            "tertiary": {
+                "topic": "customer",
+                "confidence": 0.4869
+            },
+            "subtopics": {
+                "customer service": [
+                    "customer service",
+                    "customer",
+                    "service"
+                ],
+                "service helpful": [
+                    "service helpful",
+                    "service",
+                    "helpful"
+                ],
+                "customer": [
+                    "customer"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"The customer service was very helpful.",
+                    "sentiment_score": 73.77,
+                    "topics": {
+                        "service helpful": 64.79,
+                        "customer service": 62.05,
+                        "customer": 52.75,
+                        "service": 46.98,
+                        "helpful": 38.12
+                    }
+                },
+                {
+                    "sentence": "I'll use it again!\"",
+                    "sentiment_score": 50.0,
+                    "topics": {
+                        "ll use": 40.52,
+                        "use": 40.21,
+                        "ll": 20.36
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 45.72,
+                "breakdown": {
+                    "service helpful": 64.79,
+                    "customer service": 62.05,
+                    "customer": 52.75,
+                    "service": 46.98,
+                    "helpful": 38.12,
+                    "ll use": 40.52,
+                    "use": 40.21,
+                    "ll": 20.36
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"الموظفون محترفون للغاية، وكان التسوق عبر الإنترنت سهلاً!\"",
+        "translated_text": "\"Employees are very professional, and online shopping was easy!\"",
+        "emotion": {
+            "primary": {
+                "type": "joy",
+                "intensity": "medium",
+                "confidence": 0.62
+            },
+            "secondary": {
+                "type": "neutral",
+                "intensity": "medium",
+                "confidence": 0.31
+            },
+            "tertiary": {
+                "type": "anger",
+                "intensity": "low",
+                "confidence": 0.03
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "employees professional",
+                "confidence": 0.5211
+            },
+            "secondary": {
+                "topic": "shopping easy",
+                "confidence": 0.4699
+            },
+            "tertiary": {
+                "topic": "online shopping",
+                "confidence": 0.4437
+            },
+            "subtopics": {
+                "employees professional": [
+                    "employees professional",
+                    "employees",
+                    "professional"
+                ],
+                "shopping easy": [
+                    "shopping easy",
+                    "shopping",
+                    "easy"
+                ],
+                "online shopping": [
+                    "online shopping",
+                    "shopping",
+                    "online"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"Employees are very professional, and online shopping was easy!\"",
+                    "sentiment_score": 50.0,
+                    "topics": {
+                        "employees professional": 52.11,
+                        "shopping easy": 46.99,
+                        "online shopping": 44.37,
+                        "employees": 42.45,
+                        "professional online": 38.16
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 44.82,
+                "breakdown": {
+                    "employees professional": 52.11,
+                    "shopping easy": 46.99,
+                    "online shopping": 44.37,
+                    "employees": 42.45,
+                    "professional online": 38.16
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"O suporte ao cliente foi super rápido e eficiente!\" ",
+        "translated_text": "\"Customer support was super fast and efficient!\"",
+        "emotion": {
+            "primary": {
+                "type": "surprise",
+                "intensity": "medium",
+                "confidence": 0.4
+            },
+            "secondary": {
+                "type": "joy",
+                "intensity": "low",
+                "confidence": 0.28
+            },
+            "tertiary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.21
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "customer support",
+                "confidence": 0.5678
+            },
+            "secondary": {
+                "topic": "customer",
+                "confidence": 0.4876
+            },
+            "tertiary": {
+                "topic": "fast efficient",
+                "confidence": 0.4258
+            },
+            "subtopics": {
+                "customer support": [
+                    "customer support",
+                    "customer",
+                    "support"
+                ],
+                "customer": [
+                    "customer"
+                ],
+                "fast efficient": [
+                    "fast efficient",
+                    "efficient",
+                    "fast"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"Customer support was super fast and efficient!\"",
+                    "sentiment_score": 89.2,
+                    "topics": {
+                        "customer support": 56.78,
+                        "customer": 48.76,
+                        "fast efficient": 42.58,
+                        "super fast": 39.01,
+                        "efficient": 38.29
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 45.08,
+                "breakdown": {
+                    "customer support": 56.78,
+                    "customer": 48.76,
+                    "fast efficient": 42.58,
+                    "super fast": 39.01,
+                    "efficient": 38.29
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"Я в восторге от сервиса, это был лучший опыт!\"",
+        "translated_text": "\"I am delighted with the service, it was the best experience!\"",
+        "emotion": {
+            "primary": {
+                "type": "joy",
+                "intensity": "high",
+                "confidence": 0.98
+            },
+            "secondary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.01
+            },
+            "tertiary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.0
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "delighted service",
+                "confidence": 0.6407
+            },
+            "secondary": {
+                "topic": "service best",
+                "confidence": 0.5145
+            },
+            "tertiary": {
+                "topic": "best experience",
+                "confidence": 0.4788
+            },
+            "subtopics": {
+                "delighted service": [
+                    "delighted service",
+                    "service",
+                    "delighted"
+                ],
+                "service best": [
+                    "service best",
+                    "service",
+                    "best"
+                ],
+                "best experience": [
+                    "best experience",
+                    "experience",
+                    "best"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"I am delighted with the service, it was the best experience!\"",
+                    "sentiment_score": 91.57,
+                    "topics": {
+                        "delighted service": 64.07,
+                        "service best": 51.45,
+                        "best experience": 47.88,
+                        "service": 44.59,
+                        "delighted": 39.75
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 49.55,
+                "breakdown": {
+                    "delighted service": 64.07,
+                    "service best": 51.45,
+                    "best experience": 47.88,
+                    "service": 44.59,
+                    "delighted": 39.75
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"The product works fine, but I expected more features.\"",
+        "translated_text": "\"The product works fine, but I expected more features.\"",
+        "emotion": {
+            "primary": {
+                "type": "neutral",
+                "intensity": "high",
+                "confidence": 0.88
+            },
+            "secondary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.04
+            },
+            "tertiary": {
+                "type": "sadness",
+                "intensity": "low",
+                "confidence": 0.03
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "expected features",
+                "confidence": 0.5535
+            },
+            "secondary": {
+                "topic": "features",
+                "confidence": 0.5463
+            },
+            "tertiary": {
+                "topic": "product works",
+                "confidence": 0.3777
+            },
+            "subtopics": {
+                "expected features": [
+                    "expected features",
+                    "features",
+                    "expected"
+                ],
+                "features": [
+                    "features"
+                ],
+                "product works": [
+                    "product works",
+                    "product",
+                    "works"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"The product works fine, but I expected more features.\"",
+                    "sentiment_score": 55.13,
+                    "topics": {
+                        "expected features": 55.35,
+                        "features": 54.63,
+                        "product works": 37.77,
+                        "product": 35.6,
+                        "works fine": 21.9
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 41.05,
+                "breakdown": {
+                    "expected features": 55.35,
+                    "features": 54.63,
+                    "product works": 37.77,
+                    "product": 35.6,
+                    "works fine": 21.9
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"El envío tardó un poco más de lo esperado, pero llegó en buen estado.\"",
+        "translated_text": "\"The shipment took a little longer than expected, but it came in good condition.\"",
+        "emotion": {
+            "primary": {
+                "type": "neutral",
+                "intensity": "medium",
+                "confidence": 0.57
+            },
+            "secondary": {
+                "type": "joy",
+                "intensity": "medium",
+                "confidence": 0.34
+            },
+            "tertiary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.06
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "shipment took",
+                "confidence": 0.4472
+            },
+            "secondary": {
+                "topic": "shipment",
+                "confidence": 0.3959
+            },
+            "tertiary": {
+                "topic": "good condition",
+                "confidence": 0.3193
+            },
+            "subtopics": {
+                "shipment took": [
+                    "shipment took",
+                    "shipment"
+                ],
+                "shipment": [
+                    "shipment"
+                ],
+                "good condition": [
+                    "good condition",
+                    "condition"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"The shipment took a little longer than expected, but it came in good condition.\"",
+                    "sentiment_score": 79.64,
+                    "topics": {
+                        "shipment took": 44.72,
+                        "shipment": 39.59,
+                        "good condition": 31.93,
+                        "condition": 30.05,
+                        "came good": 29.33
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 35.12,
+                "breakdown": {
+                    "shipment took": 44.72,
+                    "shipment": 39.59,
+                    "good condition": 31.93,
+                    "condition": 30.05,
+                    "came good": 29.33
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"L'application fonctionne bien, mais l'interface peut être améliorée.\"",
+        "translated_text": "\"The application works well, but the interface can be improved.\"",
+        "emotion": {
+            "primary": {
+                "type": "neutral",
+                "intensity": "high",
+                "confidence": 0.81
+            },
+            "secondary": {
+                "type": "sadness",
+                "intensity": "low",
+                "confidence": 0.11
+            },
+            "tertiary": {
+                "type": "disgust",
+                "intensity": "low",
+                "confidence": 0.04
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "interface improved",
+                "confidence": 0.6228
+            },
+            "secondary": {
+                "topic": "interface",
+                "confidence": 0.5597
+            },
+            "tertiary": {
+                "topic": "works interface",
+                "confidence": 0.519
+            },
+            "subtopics": {
+                "interface improved": [
+                    "interface improved",
+                    "interface",
+                    "improved"
+                ],
+                "interface": [
+                    "interface"
+                ],
+                "works interface": [
+                    "interface",
+                    "works interface",
+                    "works"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"The application works well, but the interface can be improved.\"",
+                    "sentiment_score": 57.03,
+                    "topics": {
+                        "interface improved": 62.28,
+                        "interface": 55.97,
+                        "works interface": 51.9,
+                        "application": 38.8,
+                        "improved": 38.68
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 49.53,
+                "breakdown": {
+                    "interface improved": 62.28,
+                    "interface": 55.97,
+                    "works interface": 51.9,
+                    "application": 38.8,
+                    "improved": 38.68
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"Das Essen war okay, aber nichts Besonderes.\" ",
+        "translated_text": "\"The food was okay, but nothing special.\"",
+        "emotion": {
+            "primary": {
+                "type": "disgust",
+                "intensity": "high",
+                "confidence": 0.75
+            },
+            "secondary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.12
+            },
+            "tertiary": {
+                "type": "anger",
+                "intensity": "low",
+                "confidence": 0.05
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "food okay",
+                "confidence": 0.4485
+            },
+            "secondary": {
+                "topic": "food",
+                "confidence": 0.3769
+            },
+            "tertiary": {
+                "topic": "special",
+                "confidence": 0.2153
+            },
+            "subtopics": {
+                "food okay": [
+                    "food okay",
+                    "food",
+                    "okay"
+                ],
+                "food": [
+                    "food"
+                ],
+                "special": [
+                    "special"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"The food was okay, but nothing special.\"",
+                    "sentiment_score": 55.77,
+                    "topics": {
+                        "food okay": 44.85,
+                        "food": 37.69,
+                        "special": 21.53,
+                        "okay special": 11.69,
+                        "okay": 4.16
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 23.98,
+                "breakdown": {
+                    "food okay": 44.85,
+                    "food": 37.69,
+                    "special": 21.53,
+                    "okay special": 11.69,
+                    "okay": 4.16
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"फोन ठीक है, लेकिन कैमरा बेहतर हो सकता था।\"",
+        "translated_text": "\"The phone is fine, but the camera could have been better.\"",
+        "emotion": {
+            "primary": {
+                "type": "neutral",
+                "intensity": "medium",
+                "confidence": 0.47
+            },
+            "secondary": {
+                "type": "sadness",
+                "intensity": "medium",
+                "confidence": 0.35
+            },
+            "tertiary": {
+                "type": "disgust",
+                "intensity": "low",
+                "confidence": 0.1
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "fine camera",
+                "confidence": 0.555
+            },
+            "secondary": {
+                "topic": "camera better",
+                "confidence": 0.5116
+            },
+            "tertiary": {
+                "topic": "camera",
+                "confidence": 0.4617
+            },
+            "subtopics": {
+                "fine camera": [
+                    "fine camera",
+                    "camera",
+                    "fine"
+                ],
+                "camera better": [
+                    "camera better",
+                    "camera",
+                    "better"
+                ],
+                "camera": [
+                    "camera"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"The phone is fine, but the camera could have been better.\"",
+                    "sentiment_score": 55.13,
+                    "topics": {
+                        "fine camera": 55.5,
+                        "camera better": 51.16,
+                        "camera": 46.17,
+                        "phone fine": 45.69,
+                        "phone": 30.12
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 45.73,
+                "breakdown": {
+                    "fine camera": 55.5,
+                    "camera better": 51.16,
+                    "camera": 46.17,
+                    "phone fine": 45.69,
+                    "phone": 30.12
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"My order arrived broken, and customer service isn't responding.\"",
+        "translated_text": "\"My order arrived broken, and customer service isn't responding.\"",
+        "emotion": {
+            "primary": {
+                "type": "sadness",
+                "intensity": "high",
+                "confidence": 0.72
+            },
+            "secondary": {
+                "type": "anger",
+                "intensity": "low",
+                "confidence": 0.17
+            },
+            "tertiary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.05
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "broken customer",
+                "confidence": 0.6808
+            },
+            "secondary": {
+                "topic": "arrived broken",
+                "confidence": 0.621
+            },
+            "tertiary": {
+                "topic": "customer service",
+                "confidence": 0.5674
+            },
+            "subtopics": {
+                "broken customer": [
+                    "broken customer",
+                    "customer",
+                    "broken"
+                ],
+                "arrived broken": [
+                    "arrived broken",
+                    "broken",
+                    "arrived"
+                ],
+                "customer service": [
+                    "customer service",
+                    "customer",
+                    "service"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"My order arrived broken, and customer service isn't responding.\"",
+                    "sentiment_score": 26.16,
+                    "topics": {
+                        "broken customer": 68.08,
+                        "arrived broken": 62.1,
+                        "customer service": 56.74,
+                        "order arrived": 53.56,
+                        "customer": 46.78
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 57.45,
+                "breakdown": {
+                    "broken customer": 68.08,
+                    "arrived broken": 62.1,
+                    "customer service": 56.74,
+                    "order arrived": 53.56,
+                    "customer": 46.78
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"El hotel estaba sucio y el personal no era amable.\"",
+        "translated_text": "\"The hotel was dirty and the staff was not kind.\"",
+        "emotion": {
+            "primary": {
+                "type": "disgust",
+                "intensity": "high",
+                "confidence": 0.97
+            },
+            "secondary": {
+                "type": "anger",
+                "intensity": "low",
+                "confidence": 0.01
+            },
+            "tertiary": {
+                "type": "sadness",
+                "intensity": "low",
+                "confidence": 0.01
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "hotel dirty",
+                "confidence": 0.6589
+            },
+            "secondary": {
+                "topic": "dirty staff",
+                "confidence": 0.5537
+            },
+            "tertiary": {
+                "topic": "hotel",
+                "confidence": 0.4795
+            },
+            "subtopics": {
+                "hotel dirty": [
+                    "hotel dirty",
+                    "hotel",
+                    "dirty"
+                ],
+                "dirty staff": [
+                    "dirty staff",
+                    "staff",
+                    "dirty"
+                ],
+                "hotel": [
+                    "hotel"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"The hotel was dirty and the staff was not kind.\"",
+                    "sentiment_score": 27.98,
+                    "topics": {
+                        "hotel dirty": 65.89,
+                        "dirty staff": 55.37,
+                        "hotel": 47.95,
+                        "staff kind": 43.8,
+                        "staff": 41.37
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 50.88,
+                "breakdown": {
+                    "hotel dirty": 65.89,
+                    "dirty staff": 55.37,
+                    "hotel": 47.95,
+                    "staff kind": 43.8,
+                    "staff": 41.37
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"Mon vol a été annulé sans explication, très décevant !",
+        "translated_text": "\"My flight was canceled without explanation, very disappointing!",
+        "emotion": {
+            "primary": {
+                "type": "sadness",
+                "intensity": "high",
+                "confidence": 0.94
+            },
+            "secondary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.04
+            },
+            "tertiary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.01
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "flight canceled",
+                "confidence": 0.7432
+            },
+            "secondary": {
+                "topic": "canceled explanation",
+                "confidence": 0.6144
+            },
+            "tertiary": {
+                "topic": "canceled",
+                "confidence": 0.4721
+            },
+            "subtopics": {
+                "flight canceled": [
+                    "flight canceled",
+                    "canceled",
+                    "flight"
+                ],
+                "canceled explanation": [
+                    "canceled explanation",
+                    "canceled",
+                    "explanation"
+                ],
+                "canceled": [
+                    "canceled"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"My flight was canceled without explanation, very disappointing!",
+                    "sentiment_score": 74.15,
+                    "topics": {
+                        "flight canceled": 74.32,
+                        "canceled explanation": 61.44,
+                        "canceled": 47.21,
+                        "flight": 46.82,
+                        "explanation disappointing": 38.4
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 53.64,
+                "breakdown": {
+                    "flight canceled": 74.32,
+                    "canceled explanation": 61.44,
+                    "canceled": 47.21,
+                    "flight": 46.82,
+                    "explanation disappointing": 38.4
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"Ich habe mein Paket nie erhalten, sehr schlechte Erfahrung!\" ",
+        "translated_text": "\"I never received my package, very bad experience!\"",
+        "emotion": {
+            "primary": {
+                "type": "anger",
+                "intensity": "medium",
+                "confidence": 0.6
+            },
+            "secondary": {
+                "type": "disgust",
+                "intensity": "low",
+                "confidence": 0.29
+            },
+            "tertiary": {
+                "type": "fear",
+                "intensity": "low",
+                "confidence": 0.04
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "package bad",
+                "confidence": 0.6129
+            },
+            "secondary": {
+                "topic": "package",
+                "confidence": 0.5323
+            },
+            "tertiary": {
+                "topic": "received package",
+                "confidence": 0.5059
+            },
+            "subtopics": {
+                "package bad": [
+                    "package bad",
+                    "package",
+                    "bad"
+                ],
+                "package": [
+                    "package"
+                ],
+                "received package": [
+                    "package",
+                    "received package",
+                    "received"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"I never received my package, very bad experience!\"",
+                    "sentiment_score": 18.85,
+                    "topics": {
+                        "package bad": 61.29,
+                        "package": 53.23,
+                        "received package": 50.59,
+                        "bad experience": 37.61,
+                        "experience": 29.24
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 46.39,
+                "breakdown": {
+                    "package bad": 61.29,
+                    "package": 53.23,
+                    "received package": 50.59,
+                    "bad experience": 37.61,
+                    "experience": 29.24
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"मेरा नया फ़ोन एक हफ्ते में ही खराब हो गया, और ग्राहक सेवा जवाब नहीं दे रही।\"",
+        "translated_text": "\"My new phone deteriorated within a week, and the customer service is not responding.\"",
+        "emotion": {
+            "primary": {
+                "type": "sadness",
+                "intensity": "high",
+                "confidence": 0.78
+            },
+            "secondary": {
+                "type": "disgust",
+                "intensity": "low",
+                "confidence": 0.08
+            },
+            "tertiary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.06
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "a week",
+                "confidence": 1.0
+            },
+            "secondary": {
+                "topic": "phone deteriorated",
+                "confidence": 0.6876
+            },
+            "tertiary": {
+                "topic": "new phone",
+                "confidence": 0.5838
+            },
+            "subtopics": {
+                "a week": [],
+                "phone deteriorated": [
+                    "phone deteriorated",
+                    "deteriorated",
+                    "phone"
+                ],
+                "new phone": [
+                    "new phone",
+                    "phone"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"My new phone deteriorated within a week, and the customer service is not responding.\"",
+                    "sentiment_score": 50.0,
+                    "topics": {
+                        "phone deteriorated": 68.76,
+                        "new phone": 58.38,
+                        "service responding": 53.32,
+                        "customer service": 53.03,
+                        "deteriorated week": 48.05
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 56.31,
+                "breakdown": {
+                    "phone deteriorated": 68.76,
+                    "new phone": 58.38,
+                    "service responding": 53.32,
+                    "customer service": 53.03,
+                    "deteriorated week": 48.05
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"这个软件充满了错误，太难用了！\"",
+        "translated_text": "\"This software is full of errors and is too difficult to use!\"",
+        "emotion": {
+            "primary": {
+                "type": "anger",
+                "intensity": "medium",
+                "confidence": 0.43
+            },
+            "secondary": {
+                "type": "disgust",
+                "intensity": "medium",
+                "confidence": 0.4
+            },
+            "tertiary": {
+                "type": "sadness",
+                "intensity": "low",
+                "confidence": 0.08
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "software errors",
+                "confidence": 0.7599
+            },
+            "secondary": {
+                "topic": "errors difficult",
+                "confidence": 0.6133
+            },
+            "tertiary": {
+                "topic": "errors",
+                "confidence": 0.5614
+            },
+            "subtopics": {
+                "software errors": [
+                    "software errors",
+                    "errors",
+                    "software"
+                ],
+                "errors difficult": [
+                    "errors difficult",
+                    "errors",
+                    "difficult"
+                ],
+                "errors": [
+                    "errors"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"This software is full of errors and is too difficult to use!\"",
+                    "sentiment_score": 18.2,
+                    "topics": {
+                        "software errors": 75.99,
+                        "errors difficult": 61.33,
+                        "errors": 56.14,
+                        "software": 45.96,
+                        "difficult use": 31.24
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 54.13,
+                "breakdown": {
+                    "software errors": 75.99,
+                    "errors difficult": 61.33,
+                    "errors": 56.14,
+                    "software": 45.96,
+                    "difficult use": 31.24
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": " \"Качество ужасное, не советую покупать!\"",
+        "translated_text": "\"The quality is terrible, I do not advise buying!\"",
+        "emotion": {
+            "primary": {
+                "type": "fear",
+                "intensity": "medium",
+                "confidence": 0.52
+            },
+            "secondary": {
+                "type": "disgust",
+                "intensity": "medium",
+                "confidence": 0.43
+            },
+            "tertiary": {
+                "type": "anger",
+                "intensity": "low",
+                "confidence": 0.03
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "quality terrible",
+                "confidence": 0.5706
+            },
+            "secondary": {
+                "topic": "advise buying",
+                "confidence": 0.5271
+            },
+            "tertiary": {
+                "topic": "quality",
+                "confidence": 0.4802
+            },
+            "subtopics": {
+                "quality terrible": [
+                    "quality terrible",
+                    "quality",
+                    "terrible"
+                ],
+                "advise buying": [
+                    "advise buying",
+                    "buying",
+                    "advise"
+                ],
+                "quality": [
+                    "quality"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"The quality is terrible, I do not advise buying!\"",
+                    "sentiment_score": 23.73,
+                    "topics": {
+                        "quality terrible": 57.06,
+                        "advise buying": 52.71,
+                        "quality": 48.02,
+                        "buying": 39.94,
+                        "terrible advise": 36.75
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 46.9,
+                "breakdown": {
+                    "quality terrible": 57.06,
+                    "advise buying": 52.71,
+                    "quality": 48.02,
+                    "buying": 39.94,
+                    "terrible advise": 36.75
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "the quality and delivery of dress is good",
+        "translated_text": "the quality and delivery of dress is good",
+        "emotion": {
+            "primary": {
+                "type": "joy",
+                "intensity": "high",
+                "confidence": 0.76
+            },
+            "secondary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.21
+            },
+            "tertiary": {
+                "type": "surprise",
+                "intensity": "low",
+                "confidence": 0.01
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "delivery dress",
+                "confidence": 0.7071
+            },
+            "secondary": {
+                "topic": "dress good",
+                "confidence": 0.6536
+            },
+            "tertiary": {
+                "topic": "quality delivery",
+                "confidence": 0.583
+            },
+            "subtopics": {
+                "delivery dress": [
+                    "delivery dress",
+                    "dress",
+                    "delivery"
+                ],
+                "dress good": [
+                    "dress good",
+                    "dress",
+                    "good"
+                ],
+                "quality delivery": [
+                    "quality delivery",
+                    "quality",
+                    "delivery"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "the quality and delivery of dress is good",
+                    "sentiment_score": 72.02,
+                    "topics": {
+                        "delivery dress": 70.71,
+                        "dress good": 65.36,
+                        "quality delivery": 58.3,
+                        "dress": 54.22,
+                        "quality": 50.5
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 59.82,
+                "breakdown": {
+                    "delivery dress": 70.71,
+                    "dress good": 65.36,
+                    "quality delivery": 58.3,
+                    "dress": 54.22,
+                    "quality": 50.5
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "\"The delivery was extremely late, and the product quality was disappointing. However, the customer service team was very helpful and resolved my issue quickly.\"",
+        "translated_text": "\"The delivery was extremely late, and the product quality was disappointing. However, the customer service team was very helpful and resolved my issue quickly.\"",
+        "emotion": {
+            "primary": {
+                "type": "sadness",
+                "confidence": 0.65,
+                "sentiment_score": 0.216
+            },
+            "secondary": {
+                "type": "neutral",
+                "confidence": 0.23,
+                "sentiment_score": 0.216
+            },
+            "tertiary": {
+                "type": "joy",
+                "confidence": 0.03,
+                "sentiment_score": 0.216
+            }
+        },
+        "aspect_sentiment": {
+            "product": {
+                "sentiment": "positive",
+                "score": 21.6
+            },
+            "service": {
+                "sentiment": "positive",
+                "score": 21.6
+            },
+            "delivery": {
+                "sentiment": "positive",
+                "score": 21.6
+            }
+        },
+        "adorescore": {
+            "overall": 39.9,
+            "breakdown": {
+                "sentiment": 60.8,
+                "emotion_intensity": 30.333333333333336,
+                "aspect_weight": 21.600000000000005
+            }
+        },
+        "keyword_trends": {
+            "new shoes": 2,
+            "shoes fit": 2,
+            "fit perfect": 2,
+            "shoes": 2,
+            "perfect quality": 2,
+            "हक जव": 2,
+            "खर गय": 2,
+            "नह रह": 2,
+            "जव नह": 2,
+            "customer support": 2,
+            "customer": 2,
+            "hochgestuft toller": 2,
+            "kostenlos auf": 2,
+            "auf die": 2,
+            "erste klasse": 2,
+            "toller service": 2,
+            "muy decepcionado": 1,
+            "prometido muy": 1,
+            "empapada tardó": 1,
+            "decepcionado": 1,
+            "lo prometido": 1,
+            "leur professionnalisme": 1,
+            "professionnalisme": 1,
+            "service client": 1,
+            "banque été": 1,
+            "le service": 1,
+            "रह बह": 1,
+            "krankenhaus das": 1,
+            "im krankenhaus": 1,
+            "krankenhaus": 1,
+            "schreckliche erfahrung": 1,
+            "erfahrung im": 1,
+            "ordered pizza": 1,
+            "pizza arrived": 1,
+            "arrived cold": 1,
+            "pizza": 1,
+            "cold soggy": 1,
+            "bank customer": 1,
+            "loan application": 1,
+            "loan": 1,
+            "resolving loan": 1,
+            "free airline": 1,
+            "airline": 1,
+            "airline provided": 1,
+            "class free": 1,
+            "upgraded class": 1,
+            "phone stopped": 1,
+            "new phone": 1,
+            "stopped working": 1,
+            "concert mind": 1,
+            "concert": 1,
+            "best night": 1,
+            "performance perfect": 1,
+            "perfect best": 1,
+            "room spotless": 1,
+            "hotel staff": 1,
+            "friendly room": 1,
+            "hotel": 1,
+            "spotless": 1,
+            "el servicio": 1,
+            "servicio fue": 1,
+            "excelente loved": 1,
+            "excelente": 1,
+            "fue excelente": 1,
+            "était heure": 1,
+            "vol était": 1,
+            "était très": 1,
+            "personnel était": 1,
+            "le vol": 1,
+            "नय बह": 1,
+            "बह पस": 1,
+            "पस आय": 1,
+            "आय": 1,
+            "इफ नद": 1,
+            "这家餐厅的食物太美味了 我还会再来": 1,
+            "这家餐厅的食物太美味了": 1,
+            "我还会再来": 1,
+            "カスタマーサービスがとても親切でした また利用します": 1,
+            "カスタマーサービスがとても親切でした": 1,
+            "また利用します": 1,
+            "الموظفون محترفون": 1,
+            "الموظفون": 1,
+            "محترفون للغاية": 1,
+            "محترفون": 1,
+            "التسوق عبر": 1,
+            "rápido eficiente": 1,
+            "cliente foi": 1,
+            "suporte ao": 1,
+            "eficiente": 1,
+            "foi super": 1,
+            "лучший опыт": 1,
+            "восторге от": 1,
+            "опыт": 1,
+            "от сервиса": 1,
+            "восторге": 1,
+            "expected features": 1,
+            "features": 1,
+            "product works": 1,
+            "product": 1,
+            "works fine": 1,
+            "esperado pero": 1,
+            "lo esperado": 1,
+            "tardó poco": 1,
+            "pero llegó": 1,
+            "envío tardó": 1,
+            "interface peut": 1,
+            "fonctionne bien": 1,
+            "application fonctionne": 1,
+            "interface": 1,
+            "peut être": 1,
+            "das essen": 1,
+            "essen war": 1,
+            "essen": 1,
+            "nichts besonderes": 1,
+            "aber nichts": 1,
+            "हतर सकत": 1,
+            "मर हतर": 1,
+            "हतर": 1,
+            "सकत": 1,
+            "मर": 1,
+            "broken customer": 1,
+            "arrived broken": 1,
+            "customer service": 1,
+            "order arrived": 1,
+            "estaba sucio": 1,
+            "el hotel": 1,
+            "sucio el": 1,
+            "hotel estaba": 1,
+            "el personal": 1,
+            "été annulé": 1,
+            "vol été": 1,
+            "annulé sans": 1,
+            "très décevant": 1,
+            "mon vol": 1,
+            "erhalten sehr": 1,
+            "schlechte erfahrung": 1,
+            "erfahrung": 1,
+            "nie erhalten": 1,
+            "erhalten": 1,
+            "रह": 1,
+            "这个软件充满了错误 太难用了": 1,
+            "太难用了": 1,
+            "这个软件充满了错误": 1,
+            "советую покупать": 1,
+            "качество ужасное": 1,
+            "качество": 1,
+            "покупать": 1,
+            "не советую": 1,
+            "delivery dress": 1,
+            "dress good": 1,
+            "quality delivery": 1,
+            "dress": 1,
+            "quality": 1
+        }
+    },
+    {
+        "feedback_text": "\"The product broke after one use, very disappointing.\"",
+        "translated_text": "\"The product broke after one use, very disappointing.\"",
+        "emotion": {
+            "primary": {
+                "type": "sadness",
+                "intensity": "high",
+                "confidence": 0.8
+            },
+            "secondary": {
+                "type": "neutral",
+                "intensity": "low",
+                "confidence": 0.06
+            },
+            "tertiary": {
+                "type": "disgust",
+                "intensity": "low",
+                "confidence": 0.06
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "one",
+                "confidence": 1.0
+            },
+            "secondary": {
+                "topic": "product broke",
+                "confidence": 0.6097
+            },
+            "tertiary": {
+                "topic": "broke use",
+                "confidence": 0.556
+            },
+            "subtopics": {
+                "one": [],
+                "product broke": [
+                    "product broke",
+                    "broke",
+                    "product"
+                ],
+                "broke use": [
+                    "broke use",
+                    "broke",
+                    "use"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "\"The product broke after one use, very disappointing.\"",
+                    "sentiment_score": 28.93,
+                    "topics": {
+                        "product broke": 60.97,
+                        "broke use": 55.6,
+                        "broke": 45.77,
+                        "product": 40.32,
+                        "use disappointing": 27.93
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 46.12,
+                "breakdown": {
+                    "product broke": 60.97,
+                    "broke use": 55.6,
+                    "broke": 45.77,
+                    "product": 40.32,
+                    "use disappointing": 27.93
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "El producto es excelente, pero el servicio al cliente fue terrible.\"",
+        "translated_text": "El producto es excelente, pero el servicio al cliente fue terrible.\"",
+        "emotion": {
+            "primary": {
+                "type": "disgust",
+                "intensity": "medium",
+                "confidence": 0.59
+            },
+            "secondary": {
+                "type": "fear",
+                "intensity": "medium",
+                "confidence": 0.36
+            },
+            "tertiary": {
+                "type": "sadness",
+                "intensity": "low",
+                "confidence": 0.02
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "pero el servicio al cliente fue",
+                "confidence": 1.0
+            },
+            "secondary": {
+                "topic": "el producto",
+                "confidence": 0.6513
+            },
+            "tertiary": {
+                "topic": "producto es",
+                "confidence": 0.6509
+            },
+            "subtopics": {
+                "pero el servicio al cliente fue": [
+                    "servicio al",
+                    "el servicio",
+                    "cliente fue",
+                    "pero el"
+                ],
+                "el producto": [
+                    "el producto",
+                    "producto"
+                ],
+                "producto es": [
+                    "producto es",
+                    "producto"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "El producto es excelente, pero el servicio al cliente fue terrible.\"",
+                    "sentiment_score": 50.0,
+                    "topics": {
+                        "el producto": 65.13,
+                        "producto es": 65.09,
+                        "excelente pero": 63.81,
+                        "excelente": 61.42,
+                        "es excelente": 61.0
+                    }
+                }
+            ],
+            "adorescore": {
+                "overall": 63.29,
+                "breakdown": {
+                    "el producto": 65.13,
+                    "producto es": 65.09,
+                    "excelente pero": 63.81,
+                    "excelente": 61.42,
+                    "es excelente": 61.0
+                }
+            }
+        }
+    },
+    {
+        "feedback_text": "El producto es excelente, pero el servicio al cliente fue terrible.\"",
+        "translated_text": "The product is excellent, but customer service was terrible. \"",
+        "emotion": {
+            "primary": {
+                "type": "disgust",
+                "intensity": "high",
+                "confidence": 0.83
+            },
+            "secondary": {
+                "type": "fear",
+                "intensity": "low",
+                "confidence": 0.12
+            },
+            "tertiary": {
+                "type": "anger",
+                "intensity": "low",
+                "confidence": 0.02
+            }
+        },
+        "topics": {
+            "primary": {
+                "topic": "excellent customer",
+                "confidence": 0.5892
+            },
+            "secondary": {
+                "topic": "service terrible",
+                "confidence": 0.5713
+            },
+            "tertiary": {
+                "topic": "product excellent",
+                "confidence": 0.5442
+            },
+            "subtopics": {
+                "excellent customer": [
+                    "excellent customer",
+                    "customer",
+                    "excellent"
+                ],
+                "service terrible": [
+                    "service terrible",
+                    "terrible",
+                    "service"
+                ],
+                "product excellent": [
+                    "product excellent",
+                    "product",
+                    "excellent"
+                ]
+            }
+        },
+        "adorescore": {
+            "sentence_analysis": [
+                {
+                    "sentence": "The product is excellent, but customer service was terrible.",
+                    "sentiment_score": 28.93,
+                    "topics": {
+                        "product excellent": 57.29,
+                        "excellent customer": 55.61,
+                        "service terrible": 52.17,
+                        "terrible": 44.02,
+                        "product": 39.52
+                    }
+                },
+                {
+                    "sentence": "\"",
+                    "sentiment_score": 50.0,
+                    "topics": {}
+                }
+            ],
+            "adorescore": {
+                "overall": 49.72,
+                "breakdown": {
+                    "product excellent": 57.29,
+                    "excellent customer": 55.61,
+                    "service terrible": 52.17,
+                    "terrible": 44.02,
+                    "product": 39.52
+                }
+            }
+        }
+    }
+]
